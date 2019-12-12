@@ -1,0 +1,13 @@
+{
+  "users": {
+    "jake": {
+      "passwordHash": "$2a$10$BBMJ0VluvzlEdQFUrjQZoO4tQRFx9sZ5R7F8oT1eYurjkYZOrI11S"
+    },
+    "chuck": {
+      "passwordHash": "$2a$10$Q4iZ16CJuI1ipUPopeXaj.ZPJAAF3xrRT31i1iKaZvF9NZ2BdC2tG"
+    },
+    "butlee": {
+      "passwordHash": "$2a$10$vppA16XBIS4AEQuQAZbioeY700aOcNopGne9In2umokPAKMfeMBPa"
+    }
+  }
+}
